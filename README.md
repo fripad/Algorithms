@@ -16,6 +16,8 @@ The application reads user input, extracts numeric substrings based on defined r
 - Highlights valid numbers in the console using colors
 - Calculates and displays the total sum of all valid numbers
 
+<img width="420" height="449" alt="Skärmbild 2026-04-21 210612" src="https://github.com/user-attachments/assets/4b3305e5-6a15-4d51-a60c-01d679625264" />
+
 ## How to Run
 1. Clone the repository
 2. Open the solution in Visual Studio
